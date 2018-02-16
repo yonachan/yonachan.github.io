@@ -18,19 +18,21 @@ title: How to use the terminal
 
 # Terminal cheat-sheet
 
+<body>
 Show path of the current folder:
-`この間に質問答えたら、反映されてますか？``
+```
+この間に質問答えたら、反映されてますか？
+```
 
-``こっちはどうですか？`
 
 List files of the current folder:
 ```
-
+もしかして、もしかすると、
 ```
 
 Create a folder called `test-folder`
 ```
-
+こういうことでしょうか。
 ```
 
 Go inside `test-folder`
