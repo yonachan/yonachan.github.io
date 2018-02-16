@@ -10,7 +10,6 @@ Show path of the current folder:
 pwd
 ```
 
-
 List files of the current folder:
 ```
 ls
