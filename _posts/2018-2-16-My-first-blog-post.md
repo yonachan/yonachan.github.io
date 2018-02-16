@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use the terminal
+title: DAY1 "How to use the terminal"
 ---
 
 # Terminal cheat-sheet

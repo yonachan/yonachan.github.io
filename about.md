@@ -8,6 +8,7 @@ permalink: /about/
 
 Some information about you!
 I want add something here.
+I want add some photos here.
 
 ### More Information
 
