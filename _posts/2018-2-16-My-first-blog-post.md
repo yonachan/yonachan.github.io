@@ -7,38 +7,38 @@ title: How to use the terminal
 
 Show path of the current folder:
 ```
-この間に質問答えたら、反映されてますか？
+pwd
 ```
 
 
 List files of the current folder:
 ```
-もしかして、もしかすると、
+ls
 ```
 
 Create a folder called `test-folder`
 ```
-こういうことでしょうか。
+mkdir `test-folder`
 ```
 
 Go inside `test-folder`
 ```
-
+cd `test-folder`
 ```
 
 Create a file called `test.txt`
 ```
-
+touch `test.txt`
 ```
 
 Remove file `test.txt`
 ```
-
+rm `test.txt`
 ```
 
 Go back to parent folder
 ```
-
+cd ..
 ```
 
 Remove `test-folder`
