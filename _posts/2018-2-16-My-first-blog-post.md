@@ -19,9 +19,9 @@ title: How to use the terminal
 # Terminal cheat-sheet
 
 Show path of the current folder:
-```
+`この間に質問答えたら、反映されてますか？``
 
-```
+``こっちはどうですか？`
 
 List files of the current folder:
 ```
