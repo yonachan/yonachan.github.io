@@ -43,5 +43,5 @@ cd ..
 
 Remove `test-folder`
 ```
-
+rmdir `test-folder`
 ```
