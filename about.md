@@ -9,7 +9,7 @@ permalink: /about/
 *I Love Playing Basketball ! Do You Want To Play With Me ?*
 
 
-![alt](../images/yona_basketball.jpg)
+![alt](/../images/yona_basketball.jpg)
 
 
 
