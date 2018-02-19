@@ -10,15 +10,19 @@ title: DAY3 "How To Use HTML & CSS"
 ```
 <h1></h1>  
 ```
+
 ```
 <p></p>  
 ```
+
 ```
 <a></a>  
 ```
+
 ```
 <a href= "URL"></a>  
 ```
+
 ```
 <img src="URL">  
 ```
