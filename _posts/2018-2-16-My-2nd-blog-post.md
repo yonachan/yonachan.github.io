@@ -1,6 +1,6 @@
 ---
 layout: post
-title: day2 "How To Use Git"
+title: Day2 "How To Use Git"
 ---
 
 ### GIT cheat-sheet
