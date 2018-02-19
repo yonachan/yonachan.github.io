@@ -3,10 +3,9 @@ layout: post
 title: Day2 "How To Use Git"
 ---
 
-***
-
 #### GIT cheat-sheet
 
+***
 
 ```
 git init
@@ -31,11 +30,11 @@ git push origin master
 ```
 git pull origin master
 ```
-変更したファイル表示
+* 変更したファイル表示
 ```
 git status
 ```
-変更内容ファイル表示
+* 変更内容ファイル表示
 ```
 git diff
 ```

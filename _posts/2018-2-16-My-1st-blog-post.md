@@ -3,9 +3,9 @@ layout: post
 title: Day1 "How to use the terminal"
 ---
 
-***
-
 #### TERMINAL cheat-sheet
+
+***
 
 Show path of the current folder:
 ```

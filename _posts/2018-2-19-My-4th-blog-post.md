@@ -6,7 +6,7 @@ title: Day4 "How To Use MARKDOWN"
 #### MARKDOWN cheat-sheet
 
 
-Markdown記法 チートシートを見る
+To cheat Markdown記法↓
 [https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
 
