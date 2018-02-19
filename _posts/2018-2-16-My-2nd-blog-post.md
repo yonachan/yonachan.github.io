@@ -3,7 +3,9 @@ layout: post
 title: Day2 "How To Use Git"
 ---
 
-### GIT cheat-sheet
+***
+
+#### GIT cheat-sheet
 
 
 ```
