@@ -3,7 +3,7 @@ layout: post
 title: Day4 "How To Use MARKDOWN"
 ---
 
-#### Markdown記法 ＆ 絶対パスと相対パス UPL あり
+#### Markdown記法 ＆ 絶対パスと相対パス URL あり
 
 ***
 

@@ -8,10 +8,12 @@ permalink: /about/
 
 *I Love Playing Basketball ! Do You Want To Play With Me ?*
 
+***
 
+↓wanna change photo-size......
 ![alt](/../images/yona_basketball.jpg)
 
-
+***
 
 ### More Information
 
@@ -22,7 +24,12 @@ twitter:
 facebook:
 [https://www.facebook.com/yonako.kan.7](https://www.facebook.com/yonako.kan.7)
 
+***
+
 ### Contact me
 
 E-mail
+↓自動送信できる機能をつけたい！！！
 [y.kan@shippio.io](y.kan@shippio.io)
+
+***
