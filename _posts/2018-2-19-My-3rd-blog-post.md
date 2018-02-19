@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DAY3 "How To Use HTML & CSS"
+title: day3 "How To Use HTML & CSS"
 ---
 
 ### HTML & CSS cheat-sheet
@@ -40,3 +40,12 @@ h1 {
   font-family: bold;
 }  
 ```
+
+***
+
+Table表を作ってみよう！
+
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |
