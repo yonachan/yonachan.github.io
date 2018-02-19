@@ -9,9 +9,10 @@ title: Problems :(
 
 
 
-wanna put 'photos' here.
+* wanna put 'photos' here.
 
-I'm already done with
+* I'm already done with
+
 ```
 * command line
 * git
