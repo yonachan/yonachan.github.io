@@ -10,7 +10,7 @@ permalink: /about/
 
 ***
 
-↓wanna change photo-size......
+* ↓wanna change photo-size......
 ![alt](/../images/yona_basketball.jpg)
 
 ***
@@ -29,7 +29,8 @@ facebook:
 ### Contact me
 
 E-mail
-↓自動送信できる機能をつけたい！！！
 [y.kan@shippio.io](y.kan@shippio.io)
+
+* ↑自動送信できる機能をつけたい！！！
 
 ***
