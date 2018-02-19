@@ -6,14 +6,16 @@ permalink: /about/
 
 
 
-*Some information about you!*
-I want add something here.
-I want add some photos here.
+*I love basketball!!!*
+![alt](yona_basketball.jpg)
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[twitter](https://twitter.com/yona5580)
+[facebook](https://www.facebook.com/yonako.kan.7)
 
 ### Contact me
 
+E-mail
 [y.kan@shippio.io](y.kan@shippio.io)

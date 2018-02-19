@@ -1,9 +1,9 @@
 ---
 layout: post
-title: DAY1 "How to use the terminal"
+title: DAY1 "How to use the terminal
 ---
 
-# Terminal cheat-sheet
+## Terminal cheat-sheet
 
 Show path of the current folder:
 ```
