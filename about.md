@@ -10,7 +10,6 @@ permalink: /about/
 
 
 ![alt](images/yona_basketball.jpg)
-![代替文字列](yona_basketball.jpg "pic")
 
 
 

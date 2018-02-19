@@ -3,13 +3,15 @@ layout: post
 title: Problems :(
 ---
 
-#### aaaayttrghbvccghgfdfghgfba
+#### アーーー！
 
 ***
 
 
 
 * wanna put 'photos' here.
+
+![alt](images/shippio_member.jpg)
 
 * I'm already done with
 
