@@ -13,8 +13,12 @@ title: Problems :(
 
 ![alt](..\images\shippio_member.jpg)
 
+```
+↑
+![alt](..\images\shippio_member.jpg)
+```
 
-
+↑done!
 
 
 * I'm already done with
