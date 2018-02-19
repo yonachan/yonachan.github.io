@@ -5,7 +5,9 @@ title: DAY3 "How To Use HTML & CSS"
 
 ### HTML & CSS cheat-sheet
 
-####HTML
+***
+
+1. HTML
 
 ```
 <h1></h1>  
@@ -27,11 +29,12 @@ title: DAY3 "How To Use HTML & CSS"
 <img src="URL">  
 ```
 
-####CSS
+***
+
+2. CSS
 
 ```
-h1 {
-
+h1 {  
   color: #ff0000:  
   font-size:100px;  
   font-family: bold;
