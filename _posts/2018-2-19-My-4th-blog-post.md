@@ -10,6 +10,8 @@ title: Day4 "How To Use MARKDOWN"
 To cheat Markdown記法
 [click here!](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
+To cheat "絶対パスと相対パス"
+[click here!](https://qiita.com/Ryosuke-Hujisawa/items/839cc36fd55cbe377096)
 
 
 * 水平線

@@ -11,7 +11,11 @@ title: Problems :(
 
 * wanna put 'photos' here.
 
-![alt](images/yona_basketball.jpg)
+![alt](..\images\shippio_member.jpg)
+
+
+
+
 
 * I'm already done with
 
