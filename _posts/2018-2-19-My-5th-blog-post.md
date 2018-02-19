@@ -21,20 +21,29 @@ title: Problems :(
 ↑done!
 
 
+
+
 ***
 
+
+
+#### problems(solved)
 ![alt](..\images/problems1.jpg)
 ```
 1. pictures
 ![alt](/../images/yona_basketball.jpg)
 相対パスなんちゃらを確認。
+"/../images"ってなることを忘れてはいかぬ。
 ```
 ```
 2.links
-えっと、まーとにかく"http://...."の部分がいらんかった。大輔さんありがとうございます！
+えっと、まーとにかく"http://...."の部分がいらんかった。
+大輔さんありがとうございます！
 ```
 ![alt](..\images/problems2.jpg)
 ![alt](..\images/problems3.jpg)
+
+
 ***
 
 
