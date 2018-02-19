@@ -6,9 +6,11 @@ permalink: /about/
 
 
 
-*I lOVE BASKETBALL !
-DO YOU WANT TO PLAY WITH ME ??*
+*I Love Basketball ! Do You Want To Play With Me ?*
 
+
+![alt](yona_basketball.jpg)
+![代替文字列](yona_basketball.jpg "pic")
 
 
 
