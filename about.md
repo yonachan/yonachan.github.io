@@ -6,20 +6,20 @@ permalink: /about/
 
 
 
-*I lOVE BASKETBALL ! *
-*DO YOU WANT TO PLAY WITH ME ??*
+*I lOVE BASKETBALL !
+DO YOU WANT TO PLAY WITH ME ??*
 
-![alt](yona_basketball.jpg)
+
 
 
 ### More Information
 
 
-twitter link:
-[twitter](https://twitter.com/yona5580)
+twitter:
+[https://twitter.com/yona5580](https://twitter.com/yona5580)
 
-facebook link:
-[facebook](https://www.facebook.com/yonako.kan.7)
+facebook:
+[https://www.facebook.com/yonako.kan.7](https://www.facebook.com/yonako.kan.7)
 
 ### Contact me
 
