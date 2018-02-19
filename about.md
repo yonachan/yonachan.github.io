@@ -6,13 +6,14 @@ permalink: /about/
 
 
 
-*I lOVE BASKETBALL ! DO YOU WANT TO PLAY WITH ME ??*
+*I lOVE BASKETBALL ! *
+*DO YOU WANT TO PLAY WITH ME ??*
+
 ![alt](yona_basketball.jpg)
 
 
 ### More Information
 
-My twitter & Facebook is here!
 
 twitter link:
 [twitter](https://twitter.com/yona5580)
