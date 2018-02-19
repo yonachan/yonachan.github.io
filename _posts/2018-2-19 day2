@@ -1,0 +1,39 @@
+---
+layout: post
+title: How To Use Git
+---
+
+# How To Use Git
+
+
+```
+git init
+```
+
+```
+git add
+```
+
+```
+git commit -m "　"
+```
+
+```
+git remote add origin URL
+```
+
+```
+git push origin master
+```
+
+```
+git pull origin master
+```
+変更したファイル表示
+```
+git status
+```
+変更内容ファイル表示
+```
+git diff
+```
