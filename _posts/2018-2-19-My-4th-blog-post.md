@@ -7,7 +7,7 @@ title: Day4 "How To Use MARKDOWN"
 
 ***
 
-To cheat Markdown記法↓
+To cheat Markdown記法
 [click here!](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
 
