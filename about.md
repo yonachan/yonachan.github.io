@@ -11,7 +11,13 @@ permalink: /about/
 ***
 
 * ↓wanna change photo-size......
-![alt](/../images/yona_basketball.jpg =200x)
+
+GitHub markdown は ![](url) により画像を表示できますがリサイズできません。
+
+僕達が本当にやりたい事は、![](url | width=100) や ![](url =200x400) といったお手軽にリサイズする方法なのですが、現状そのような機能は存在しないらしい
+
+![alt](/../images/yona_basketball.jpg)
+
 
 ***
 
