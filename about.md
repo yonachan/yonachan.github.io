@@ -11,7 +11,7 @@ permalink: /about/
 ***
 
 * ↓wanna change photo-size......
-![alt](/../images/yona_basketball.jpg =200x200))
+![alt](/../images/yona_basketball.jpg =200x)
 
 ***
 
