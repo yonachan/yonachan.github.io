@@ -18,6 +18,8 @@ GitHub markdown は ![](url) により画像を表示できますがリサイズ
 
 ![alt](/../images/yona_basketball.jpg)
 
+<p><img src="/../images/yona_basketball.jpg" alt="写真" width="24%" height="50%"></p>
+
 
 ***
 
