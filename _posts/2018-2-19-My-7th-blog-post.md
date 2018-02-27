@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 23日の進行状況！
+title: yah
 ---
 
-#### あー眠たい
+####
 
 ***
-
-aaaaaaaaaaaaa
-
-なんで反映されないの？？
+Navbar Bootstrap
+[click here!](https://v4-alpha.getbootstrap.com/components/navbar/)
 ***
