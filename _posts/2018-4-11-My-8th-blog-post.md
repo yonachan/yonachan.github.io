@@ -1,4 +1,4 @@
-# nekotterの作成手順
+# How to make nekotter
 
 ### 事前準備
 view(html,cssの部分)は事前に用意してあるviewをダウンロードしましょう
@@ -205,7 +205,7 @@ app/views/tweets/create.html.erb
 ブラウザで下記のURLに飛び、投稿画面を確認
 http://localhost:3000/tweets/new
 
-nekotterの実装は以上です。
+nekotterの実装は以上
 
 
 ## その他機能追加
